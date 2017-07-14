@@ -25,7 +25,7 @@ Jeweler::Tasks.new do |gem|
   # Include your dependencies below. Runtime dependencies are required when using your gem,
   # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
   
-  gem.add_development_dependency 'rspec', '> 2.6.0'
+#  gem.add_development_dependency 'rspec', '> 2.6.0'
 end
 Jeweler::RubygemsDotOrgTasks.new
 
